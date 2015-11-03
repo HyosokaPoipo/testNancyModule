@@ -1,0 +1,14 @@
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\NancyApplication1.dll.config
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\NancyApplication1.dll
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\NancyApplication1.pdb
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\Nancy.dll
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\Nancy.Hosting.Aspnet.dll
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\Nancy.ViewEngines.Razor.dll
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\System.Web.Razor.Unofficial.dll
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\Nancy.xml
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\Nancy.Hosting.Aspnet.xml
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\Nancy.ViewEngines.Razor.xml
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\bin\System.Web.Razor.Unofficial.pdb
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\obj\Debug\NancyApplication1.csprojResolveAssemblyReference.cache
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\obj\Debug\NancyApplication1.dll
+D:\Hyosoka_Poipo\Nancy_SC\NancyApplication1\NancyApplication1\obj\Debug\NancyApplication1.pdb
